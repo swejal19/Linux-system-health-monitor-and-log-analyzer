@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+reports/*
+!reports/.gitkeep
+logs/*.log
+!logs/sample_system.log

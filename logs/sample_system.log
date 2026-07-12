@@ -1,0 +1,12 @@
+2026-07-12 09:00:01 INFO System health monitor started
+2026-07-12 09:00:05 INFO CPU metrics collected successfully
+2026-07-12 09:00:06 INFO Memory metrics collected successfully
+2026-07-12 09:01:15 WARNING CPU usage approaching configured threshold
+2026-07-12 09:02:20 ERROR Database connection refused
+2026-07-12 09:02:45 ERROR Database connection refused
+2026-07-12 09:03:10 ERROR Database connection refused
+2026-07-12 09:04:00 WARNING DNS response slower than expected
+2026-07-12 09:05:30 ERROR DNS resolution failed for service.internal
+2026-07-12 09:06:15 ERROR Permission denied while reading application configuration
+2026-07-12 09:07:00 CRITICAL Disk space exhausted on application volume
+2026-07-12 09:08:00 INFO Health check cycle completed

@@ -1,0 +1,15 @@
+{
+    "thresholds": {
+        "cpu_warning": 80,
+        "memory_warning": 80,
+        "disk_warning": 85
+    },
+    "network": {
+        "hostname": "example.com",
+        "port": 443,
+        "timeout_seconds": 3
+    },
+    "monitoring": {
+        "top_processes": 5
+    }
+}
